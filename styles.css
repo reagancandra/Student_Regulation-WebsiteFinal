@@ -1,0 +1,24 @@
+.box{
+    background-color: #bde0fe;
+    /* padding: gaps between something */
+    padding: 50px;
+    /* margin: gap outside */
+    margin-top: 75px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 200px;
+}
+body{
+    background-color: #cdb4db;
+}
+button{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1:hover{
+    color: red;
+    background-color: rgb(255, 255, 255);
+}
