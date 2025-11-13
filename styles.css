@@ -1,5 +1,5 @@
 .box{
-    background-color: #bde0fe;
+    background-color: #ffa5ab;
     /* padding: gaps between something */
     padding: 50px;
     /* margin: gap outside */
@@ -12,7 +12,7 @@
     padding: 200px;
 }
 body{
-    background-color: #cdb4db;
+    background-color: #ffe6a7;
 }
 button{
     font-size: xx-large;
